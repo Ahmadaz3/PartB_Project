@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\PartB\PartBServer\PartBServer\obj\Debug\PartBServer.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\PartB\PartBServer\PartBServer\obj\Debug\PartBServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\PartB\PartBServer\PartBServer\obj\Debug\PartBServer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\PartB\PartBServer\PartBServer\bin\Debug\PartBServer.exe.config
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\PartB\PartBServer\PartBServer\bin\Debug\PartBServer.exe
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\PartB\PartBServer\PartBServer\bin\Debug\PartBServer.pdb
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\PartB\PartBServer\PartBServer\obj\Debug\PartBServer.exe
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\PartB\PartBServer\PartBServer\obj\Debug\PartBServer.pdb

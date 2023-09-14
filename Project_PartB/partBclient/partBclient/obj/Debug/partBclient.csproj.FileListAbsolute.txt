@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\PartB\partBclient\partBclient\bin\Debug\partBclient.exe.config
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\PartB\partBclient\partBclient\bin\Debug\partBclient.exe
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\PartB\partBclient\partBclient\bin\Debug\partBclient.pdb
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\PartB\partBclient\partBclient\obj\Debug\partBclient.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\PartB\partBclient\partBclient\obj\Debug\partBclient.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\PartB\partBclient\partBclient\obj\Debug\partBclient.Form1.resources
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\PartB\partBclient\partBclient\obj\Debug\partBclient.Properties.Resources.resources
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\PartB\partBclient\partBclient\obj\Debug\partBclient.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\PartB\partBclient\partBclient\obj\Debug\partBclient.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\PartB\partBclient\partBclient\obj\Debug\partBclient.exe
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\PartB\partBclient\partBclient\obj\Debug\partBclient.pdb
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\PartB\partBclient\partBclient\obj\Debug\partBclient.messageFormcs.resources
